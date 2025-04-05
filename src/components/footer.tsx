@@ -10,7 +10,7 @@ export function Footer() {
             <div className="flex items-center gap-2 mb-6">
               <div className="relative w-10 h-10">
                 <img
-                  src="/placeholder.svg?height=40&width=40"
+                  src="/icon.png"
                   alt="Mozilla Firefox Club Logo"
                   className="w-10 h-10 object-contain"
                 />
